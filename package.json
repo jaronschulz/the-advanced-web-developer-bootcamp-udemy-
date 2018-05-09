@@ -1,0 +1,26 @@
+{
+  "name": "css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "simple-autoreload-server": "^0.2.7"
+  },
+  "devDependencies": {
+    "npm": "^6.0.0",
+    "reload": "^2.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaronschulz/the-advanced-web-developer-bootcamp-udemy-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaronschulz/the-advanced-web-developer-bootcamp-udemy-/issues"
+  },
+  "homepage": "https://github.com/jaronschulz/the-advanced-web-developer-bootcamp-udemy-#readme",
+  "description": ""
+}
